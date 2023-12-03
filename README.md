@@ -1,5 +1,5 @@
 # garden-ecommerce-website
-.py files
-other files are in other repo
-need professional python compiler and database management softwere to run this project
-database table and varriable names must be same
+<br>.py files
+<br>other files are in other repo
+<br>need professional python compiler and database management softwere to run this project
+<br>database table and varriable names must be same
